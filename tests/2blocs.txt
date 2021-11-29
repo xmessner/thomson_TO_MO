@@ -1,0 +1,9 @@
+10 CLS
+20 PRINT "** 2 blocs de donnees **"
+30 PRINT "------------------------"
+40 PRINT ""
+50 PRINT "Si vous voyez ce texte c'est que la version avec 2 blocs"
+60 PRINT "fonctionne correctement."
+70 PRINT "Le bloc etant superieur a 255 octets."
+80 PRINT ""
+90 PRINT "------------------------"

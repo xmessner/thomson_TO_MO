@@ -1,0 +1,3 @@
+10 CLS
+15 PRINT "** 1 bloc de donnée **"
+20 PRINT "Si vous voyez ce texte c'est que tout s'est bien passé"

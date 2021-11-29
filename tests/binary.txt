@@ -1,0 +1,7 @@
+1 for i=0 to 160
+2 poke &H4000+i,&H00
+3 next i
+4 for i=0 to 160
+5 poke &H4000+i,i
+6 next i
+50 savem"ecran.bin",&H4000,&H4004,0
