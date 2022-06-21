@@ -1,6 +1,6 @@
 #######
 #
-# 21/06: beta workflow
+# 21/06: beta workflow action
 #
 #######
 #include <string.h>
