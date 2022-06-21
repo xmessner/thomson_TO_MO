@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <sys/stat.h>
-#include "cass.h"
+#include "gencass.h"
 
 // TODO Faire attention à la taille maxi d'une image cassette si gros listing ou plusieurs fichiers à intégrer
 // TODO Rajouter le cas d'un nom de fichier TO7 avec un espace, c'est possible.
