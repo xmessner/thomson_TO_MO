@@ -1,8 +1,8 @@
-#######
-#
-# 21/06: beta workflow action
-#
-#######
+/******
+*
+* 21/06: beta workflow action
+*
+*******/
 #include <string.h>
 #include <libgen.h>
 #include <stdlib.h>
