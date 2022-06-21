@@ -13,4 +13,4 @@ jobs:
     - uses: actions/checkout@main
     
     - name: Compile gencass
-      run: cd gencass && make cass
+      run: cd gencass && make gencass
